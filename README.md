@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on **IJSE - Institute of Software Engineering**
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **madhusankaasiri2@gmail.com**
 
