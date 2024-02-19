@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirim2000&label=Profile%20views&color=0e75b6&style=flat" alt="asirim2000" /> </p>
 
-- 🔭 I’m currently studying on **IJSE - Institute of Software Engineering**
+- 🔭 I’m currently working on **Data Intimate (PVT) LTD - Contract Base**
 
 - 🌱 I’m currently learning **PHP**
 
