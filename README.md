@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asiri madhusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiri madhusanka" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/asiri madhusanka](https://www.linkedin.com/in/asiri-madhusanka-87053a244/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiri madhusanka" height="30" width="40" /></a>
 <a href="https://fb.com/pathum ambagahawaththe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pathum ambagahawaththe" height="30" width="40" /></a>
 </p>
 
