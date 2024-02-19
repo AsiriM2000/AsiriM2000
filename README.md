@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Intimate (PVT) LTD - Contract Base**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **madhusankaasiri2@gmail.com**
 
